@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExpenseControl.UserRegistration.Application.Common\ExpenseControl.UserRegistration.Application.Common.csproj" />
+  </ItemGroup>
+
+</Project>
